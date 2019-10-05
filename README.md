@@ -1,3 +1,4 @@
-# Bekzodbek_Raximov 2
+# Bekzodbek_Raximov 5
+server
 Bekzod Raximov's files
 local
