@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="9" viewBox="0 0 17 9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <path id="taccor.svg" class="cls-1" d="M1509.82,1120.04l-7.89,7.78a0.757,0.757,0,0,1-.96-0.05l-7.79-7.7a0.6,0.6,0,0,1,0-.86,0.625,0.625,0,0,1,.87,0l7.41,7.33,7.48-7.37a0.637,0.637,0,0,1,.88.01A0.587,0.587,0,0,1,1509.82,1120.04Z" transform="translate(-1493 -1119)"/>
+</svg>
