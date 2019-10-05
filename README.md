@@ -1,2 +1,2 @@
-# Bekzod_Raximov
+# Bekzodbek_Raximov
 Bekzod Raximov's files
